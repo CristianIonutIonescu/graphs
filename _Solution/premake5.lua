@@ -1,3 +1,7 @@
+-- solution builder script 
+-- © Cristian Ionescu
+-- April 2014
+
 solution "Graphs"
    configurations { "Debug", "Release" }
    location ".."
